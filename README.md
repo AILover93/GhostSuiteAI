@@ -1,0 +1,2 @@
+# GhostSuiteAI
+Image gen app
